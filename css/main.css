@@ -2,10 +2,13 @@ html {
   background-color: #c9b5ab;
 }
 
-h1 {
-  color: #3f1622;
+header {
   font-family: "PT Sans", sans-serif;
+}
+
+h1 {
   font-weight: bold;
+  color: #3f1622;
   font-size: 1.5rem;
 }
 
@@ -13,15 +16,30 @@ ol {
   list-style-type: none;
 }
 
-a{
+a {
   text-decoration: none;
   font-family: "PT Sans", sans-serif;
   color: #8f2440;
   font-weight: bold;
   font-size: 1.125rem;
-  line-height: 140%;
+  line-height: 160%;
+}
+
+a:hover {
+  color: #3f1622;
+  text-decoration: none;
 }
 
 img {
-  width: 50%;
+  width: 100%;
+}
+
+p {
+  font-family: "PT Serif", serif;
+  font-weight: normal;
+}
+
+.fig1 {
+  font-style: italic;
+  text-align: center;
 }
