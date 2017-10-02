@@ -8,3 +8,20 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
 }
+
+ol {
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  font-family: "PT Sans", sans-serif;
+  color: #8f2440;
+  font-weight: bold;
+  font-size: 1.125rem;
+  line-height: 140%;
+}
+
+img {
+  width: 50%;
+}
