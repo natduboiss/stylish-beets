@@ -59,6 +59,22 @@ p {
 
 .quote2 {
   font-size: 1.5rem;
-  font-weight: bold;
   text-align: center;
+}
+
+.cite {
+  font-size: .8rem;
+  line-height: 160%;
+}
+
+.title1 {
+  color: #3f1622;
+}
+
+.title2 {
+  color: #3f1622;
+}
+
+.title3 {
+  color: #3f1622;
 }
