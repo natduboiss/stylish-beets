@@ -5,4 +5,6 @@ html {
 h1 {
   color: #3f1622;
   font-family: "PT Sans", sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
 }
